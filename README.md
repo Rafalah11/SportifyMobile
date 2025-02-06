@@ -1,15 +1,15 @@
 <p align="center">
-    <strong>Nomor 1: Halaman Daftar Lapangan</strong>
+    <strong>Nomor 1: Halaman Home Page</strong>
     <br>
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20152841.png" width="400" alt="Halaman Daftar Lapangan (Admin)">
+    <img src="https://github.com/Rafalah11/SportifyMobile/blob/UAPFINAL/HomePage%20Sportify.jpg" width="400" alt="Halaman Daftar Lapangan (Admin)">
     <br><br>
-    <strong>Nomor 2: Halaman HomePage</strong>
+    <strong>Nomor 2: Halaman Sport Schedule</strong>
     <br>
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153514.png" width="400" alt="Halaman HomePage">
+    <img src="https://github.com/Rafalah11/SportifyMobile/blob/UAPFINAL/SportSchedule%20Sportify.jpg" width="400" alt="Halaman HomePage">
     <br><br>
-    <strong>Nomor 3: Halaman Login</strong>
+    <strong>Nomor 3: Halaman Reels</strong>
     <br>
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153836.png" width="400" alt="Halaman Login">
+    <img src="https://github.com/Rafalah11/SportifyMobile/blob/UAPFINAL/Reels%20Sportify.jpg" width="400" alt="Halaman Login">
 </p>
 
 
